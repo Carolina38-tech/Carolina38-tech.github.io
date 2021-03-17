@@ -1,0 +1,14 @@
+co\com\arbusta\capacitacion\autoScreenplayCucumber\runners\BarraDeBusqueda.class
+co\com\arbusta\capacitacion\autoScreenplayCucumber\runners\CategoriasEnMenu.class
+co\com\arbusta\capacitacion\autoScreenplayCucumber\stepdefinitions\CompararPrendas.class
+co\com\arbusta\capacitacion\autoScreenplayCucumber\stepdefinitions\CategoriasEnMenu.class
+co\com\arbusta\capacitacion\autoScreenplayCucumber\stepdefinitions\Registro.class
+co\com\arbusta\capacitacion\autoScreenplayCucumber\stepdefinitions\CatalogoSecundario.class
+co\com\arbusta\capacitacion\autoScreenplayCucumber\stepdefinitions\Login.class
+co\com\arbusta\capacitacion\autoScreenplayCucumber\runners\CompararPrendas.class
+co\com\arbusta\capacitacion\autoScreenplayCucumber\stepdefinitions\BarraDeBusqueda.class
+co\com\arbusta\capacitacion\autoScreenplayCucumber\runners\Registro.class
+co\com\arbusta\capacitacion\autoScreenplayCucumber\runners\FiltroDeCatalogo.class
+co\com\arbusta\capacitacion\autoScreenplayCucumber\stepdefinitions\FiltroDeCatalogo.class
+co\com\arbusta\capacitacion\autoScreenplayCucumber\runners\CatalogoSecundario.class
+co\com\arbusta\capacitacion\autoScreenplayCucumber\runners\Login.class
